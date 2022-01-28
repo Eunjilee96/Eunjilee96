@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karin Block-developer</h1>
 <h3 align="center">A passionate Block-chain frontend developer from Korea💘</h3> 
 
-<h3 align="center">- 🔭 I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝**</h3>
+<h3 align="center">- 🔭 I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝And we have experience in developing and launching blockchain exchanges.</h3>
 <g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">✔️</g-emoji>  기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.<br>
 
 <h3 align="center">Connect with me:qnftkwk93@gmail.com😛</h3>
