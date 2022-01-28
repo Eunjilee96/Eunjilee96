@@ -25,7 +25,7 @@
 <h3 align="center">✔️Read Blockchain News , Operation Goolgoe Research</h3>
 <h3 align="center">✔️Drawing, Writing, EconomyNews Scraping</h3>
   
-
+<div align="center">
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Eunjilee96&show_icons=true&include_all_commits=true&count_private=true")](https://github.com/Eunjilee96/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact)](https://github.com/eunjilee96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact)](https://github.com/eunjilee96/github-readme-stats)</div>
   
