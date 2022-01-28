@@ -22,6 +22,5 @@
 </div>
 
 <h3 align="center">☀️Interest</h3>
-<h3 align="center">✔️Tech-Blog</h3>
-<h3 align="center">✔️Operation Research</h3>
+<h3 align="center">✔️Read Blockchain News , Operation Goolgoe Research</h3>
 <h3 align="center">✔️Drawing, Writing, EconomyNews Scraping</h3>
