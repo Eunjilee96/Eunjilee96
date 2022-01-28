@@ -26,8 +26,8 @@
 <h3 align="center">✔️Drawing, Writing, EconomyNews Scraping</h3>
   
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Eunjilee96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/Eunjilee96/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact&theme=algolia)](https://github.com/eunjilee96/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Eunjilee96&show_icons=true&include_all_commits=true&count_private=true")](https://github.com/Eunjilee96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact)](https://github.com/eunjilee96/github-readme-stats)
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eunjilee96&show_icons=true&locale=en" alt="eunjilee96" /></p>
 
