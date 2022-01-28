@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karin developer</h1>
 <h3 align="center">A passionate Block-chain frontend developer from Korea💘</h3> 
 
-- 🔭 I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝**
+<h3 align="center">- 🔭 I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝**</h3>
 
 <h3 align="center">Connect with me:qnftkwk93@gmail.com😛</h3>
 <p align="center">
