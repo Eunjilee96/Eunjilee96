@@ -23,6 +23,6 @@
 </div>
 
 <h3 align="center">☀️Interest</h3>
-<h3 align="left">✔️Tech-Blog</h3>
-<h3 align="left">✔️Operation Research</h3>
-<h3 align="left">✔️Drawing, Writing, EconomyNews Scraping</h3>
+<h3 align="center">✔️Tech-Blog</h3>
+<h3 align="center">✔️Operation Research</h3>
+<h3 align="center">✔️Drawing, Writing, EconomyNews Scraping</h3>
