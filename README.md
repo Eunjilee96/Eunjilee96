@@ -29,12 +29,3 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Eunjilee96&show_icons=true&include_all_commits=true&count_private=true")](https://github.com/Eunjilee96/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact)](https://github.com/eunjilee96/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96)](https://github.com/eunjilee96/github-readme-stats)
-
-## Hey 👋, [![Github Badge](https://img.shields.io/badge/-eunjilee96-grey?style=flat&logo=github&logoColor=white&link=https://github.com/eunjilee96/)](https://www.github.com/eunjilee96/) 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=eunjilee96 alt=eunjilee96 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=eunjilee96&show_icons=true&include_all_commits=true)](https://github.com/eunjilee96/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact)](https://github.com/eunjilee96/github-readme-stats)
-
