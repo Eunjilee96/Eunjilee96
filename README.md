@@ -7,7 +7,7 @@
 <h3 align="center">💋Contact: qnftkwk93@gmail.com😛 
   
   <a href="https://blog.naver.com/qnftkwk93" rel="nofollow">
-    <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA5MjRfMTU5/MDAxNjAwOTI4MDMyMjEw.DjPtW_SeEom1lwP1lYnH63Z2RHOzcpBM3QpeDzB3U-Ag.c67GygQljSm_oMFcLVzrcd-PhqwSWLM8op_iTSs6NJ4g.PNG.thdnjs4484/%EB%B8%94%EB%A1%9C%EA%B7%B82.png?type=w800 data-canonical-src="https://img.shields.io/badge/-@jeongkooo_-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+    <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA5MjRfMTU5/MDAxNjAwOTI4MDMyMjEw.DjPtW_SeEom1lwP1lYnH63Z2RHOzcpBM3QpeDzB3U-Ag.c67GygQljSm_oMFcLVzrcd-PhqwSWLM8op_iTSs6NJ4g.PNG.thdnjs4484/%EB%B8%94%EB%A1%9C%EA%B7%B82.png?type=w800 data-canonical-src="https://img.shields.io/badge/-@jeongkooo_-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a> 
     
     
 <h3 align="center">🛠Technical Skills🔭</h3>
