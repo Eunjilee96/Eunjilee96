@@ -27,7 +27,7 @@
 <br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eunjilee96&show_icons=true&include_all_commits=true&count_private=true" />
   <img src="https://blog.kakaocdn.net/dn/C66av/btqt0T0PFP9/8YGOVpWXVwX5UJ9dyhQNM1/img.png" width="20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact)](https://github.com/eunjilee96/github-readme-stats"/>
-  </div>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjilee96&layout=compact)](https://github.com/eunjilee96/github-readme-stats"/>-->
+ </div>
  </div>
   
