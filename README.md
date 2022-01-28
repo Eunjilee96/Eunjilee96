@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karin developer</h1>
+<h1 align="center">Hi 👋, I'm Karin Block-developer</h1>
 <h3 align="center">A passionate Block-chain frontend developer from Korea💘</h3> 
 
 <h3 align="center">- 🔭 I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝**</h3>
