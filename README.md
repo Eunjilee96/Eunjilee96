@@ -4,7 +4,7 @@
 <h3 align="center">✔️ I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝 </br>
 ✔️And I have experience in developing and launching a blockchain exchange! </h3>
 
-<h3 align="center">💋Contact: qnftkwk93@gmail.com😛 <a href="https://blog.naver.com/qnftkwk93" rel="nofollow"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA5MjRfMTU5/MDAxNjAwOTI4MDMyMjEw.DjPtW_SeEom1lwP1lYnH63Z2RHOzcpBM3QpeDzB3U-Ag.c67GygQljSm_oMFcLVzrcd-PhqwSWLM8op_iTSs6NJ4g.PNG.thdnjs4484/%EB%B8%94%EB%A1%9C%EA%B7%B82.png?type=w800" style="max-width:27px;" "height:21px;"></a></h3>
+<h3 align="center">💋Contact: qnftkwk93@gmail.com😛 <a href="https://blog.naver.com/qnftkwk93" rel="nofollow"><img src="https://mblogthumb-phinf.pstatic.net/MjAyMDA5MjRfMTU5/MDAxNjAwOTI4MDMyMjEw.DjPtW_SeEom1lwP1lYnH63Z2RHOzcpBM3QpeDzB3U-Ag.c67GygQljSm_oMFcLVzrcd-PhqwSWLM8op_iTSs6NJ4g.PNG.thdnjs4484/%EB%B8%94%EB%A1%9C%EA%B7%B82.png?type=w800" style="max-width:27px;" "max-height:21px;"></a></h3>
 <p align="center">
 </p>
 
