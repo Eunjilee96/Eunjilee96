@@ -4,7 +4,7 @@
 <h3 align="center">✔️ I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝 </br>
 ✔️And I have experience in developing and launching a blockchain exchange! </h3>
 
-<h3 align="center">💋Contact: qnftkwk93@gmail.com😛 
+<h3 align="center">💋Contact: karin.blockdev@gmail.com😛 
   
  
     
