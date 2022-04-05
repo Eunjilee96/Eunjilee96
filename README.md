@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 'Karin' Dapp-developer</h1>
+<h1 align="center">Hi 👋, I'm 'Karin' chain developer</h1>
 <h3 align="center">🔭A passionate Block-chain frontend developer from Korea💘</h3> 
 <p align="center"> C/C++/ Node.js/ websocket&rest.API </P>
 <h3 align="center">✔️ I’m currently working on **Samsung SECUI Blue-Max PROJECT and NFT P.J	😝 </br>Cancel changes
