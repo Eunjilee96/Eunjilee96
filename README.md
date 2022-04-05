@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 'Karin' Dapp-developer</h1>
 <h3 align="center">🔭A passionate Block-chain frontend developer from Korea💘</h3> 
 <p align="center"> C/C++/ Node.js/ websocket&rest.API </P>
-<h3 align="center">✔️ I’m currently working on **Samsung SECUI Blue-Max PROJECT	😝 </br>Cancel changes
+<h3 align="center">✔️ I’m currently working on **Samsung SECUI Blue-Max PROJECT and NFT P.J	😝 </br>Cancel changes
 ✔️And I have experience in developing and launching a blockchain exchange! </h3>
 
 <h3 align="center">💋Contact: karin.blockdev@gmail.com😛 
